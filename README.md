@@ -2,7 +2,9 @@
 Robotic Systems Teaching Materials.
 
 Submission Assessment1:
-https://youtu.be/1eRc8NBy3SM
+[![Watch the video](https://img.youtube.com/vi/1eRc8NBy3SM/maxresdefault.jpg)](https://youtu.be/1eRc8NBy3SM)
+
+### Demonstrated Tasks:
 
 ## Assessment 1 Materials
 <br>
